@@ -15,6 +15,5 @@ try {
         ]
     );
 } catch (PDOException $e) {
-    // Não exiba detalhes internos da conexão para visitantes.
     die("Erro na conexão com o banco de dados.");
 }
