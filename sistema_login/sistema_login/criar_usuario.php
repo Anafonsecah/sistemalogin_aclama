@@ -1,6 +1,4 @@
 <?php
-// Execute este arquivo uma única vez para criar o usuário de teste.
-// Depois, APAGUE este arquivo da pasta do projeto.
 
 require_once "conexao.php";
 
